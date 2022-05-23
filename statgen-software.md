@@ -96,7 +96,7 @@ Packages are either hosted on CRAN or [Bioconductor](https://www.bioconductor.or
 - A [tutorial](http://www.stat-gen.org/str/about.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
 - [Task view](https://cran.r-project.org/web/views/Genetics.html) on CRAN.
 - R-packages that deal with [genetics](https://rdrr.io/search?q=genetics) or [genomics](https://rdrr.io/search?q=genomics). 
-
+- GWAS summary data ecosystem [gwasglue](https://github.com/MRCIEU/gwasglue).
 
 ### Bioconductor packages 
 - [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
